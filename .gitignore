@@ -1,0 +1,5 @@
+/doc
+/bin
+/res/png/*
+*.pdf
+*.synctex.gz
